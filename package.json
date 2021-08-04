@@ -1,0 +1,30 @@
+{
+  "name": "discussinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsraaAlaaOmar/grade_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsraaAlaaOmar/grade_project/issues"
+  },
+  "homepage": "https://github.com/EsraaAlaaOmar/grade_project#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  }
+}
